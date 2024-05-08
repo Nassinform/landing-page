@@ -166,9 +166,7 @@ button:hover {
 }
 
 .div-green {
-    display: flex;
-    justify-content: center;
-    align-items: center;
+    text-align: center;
     margin-top: 10px;
     margin-bottom: 10px;
     margin-left: 20px;
